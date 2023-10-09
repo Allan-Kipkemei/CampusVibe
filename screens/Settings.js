@@ -61,24 +61,13 @@ const Settings = () => {
            <TouchableOpacity style={styles.snippets}>
               <Text style={styles.snippetText}>Menu</Text>
            </TouchableOpacity>
-           <TouchableOpacity style={styles.snippets}>
-              <Text style={styles.snippetText}>Menu</Text>
-           </TouchableOpacity>
-           <TouchableOpacity style={styles.snippets}>
-              <Text style={styles.snippetText}>Menu</Text>
-           </TouchableOpacity>
-           <TouchableOpacity style={styles.snippets}>
-              <Text style={styles.snippetText}>Menu</Text>
-           </TouchableOpacity>
-           <TouchableOpacity style={styles.snippets}>
-              <Text style={styles.snippetText}>Menu</Text>
-           </TouchableOpacity>
-           <TouchableOpacity style={styles.snippets}>
-              <Text style={styles.snippetText}>Menu</Text>
-           </TouchableOpacity>
+            <TouchableOpacity style={styles.snippets} onPress={handleLogout}>
+              <Text style={styles.snippetText}>Edit Profile</Text>
+            </TouchableOpacity>
            <TouchableOpacity style={styles.snippets} onPress={handleLogout}>
               <Text style={styles.snippetText}>Log out</Text>
            </TouchableOpacity>
+
           
 
         </View>

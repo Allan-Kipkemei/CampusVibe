@@ -15,8 +15,7 @@ Note: Make sure you have installed native code dependencies [here](https://react
 
 Some few Screenshots 
 Do have a look
-![photo1696850647](https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/2a6e60aa-615c-41eb-839f-410a78d94130)
-![photo1696851289](https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/279fcf3b-2b0c-4282-b917-fd4681e58424)
-![space](https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/95ad4a52-8a72-4f7f-bff2-56a1c080aadb)
-![photo1696850647 (2)](https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/60b666b2-97ef-4426-b6aa-7c23d5754d44)
-![photo1696850647 (1)](https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/e55c0e6c-4da5-4795-bf8d-261b155542fc)
+<img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/2a6e60aa-615c-41eb-839f-410a78d94130" alt="Screenshot 1" width="400">
+<img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/279fcf3b-2b0c-4282-b917-fd4681e58424" alt="Screenshot 2" width="400">
+<img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/60b666b2-97ef-4426-b6aa-7c23d5754d44" alt="Screenshot 3" width="400">
+<img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/e55c0e6c-4da5-4795-bf8d-261b155542fc" alt="Screenshot 4" width="400">

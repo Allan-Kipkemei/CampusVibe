@@ -9,12 +9,11 @@ Note: Make sure you have installed native code dependencies [here](https://react
     1. Press  `i`  to view on iOS simulator or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 5. Run on For android device
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
-
-
-
-
-Some few Screenshots 
+6.Some few Screenshots 
 Do have a look
+
+
+
 <img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/2a6e60aa-615c-41eb-839f-410a78d94130" alt="Screenshot 1" width="200">
 <img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/279fcf3b-2b0c-4282-b917-fd4681e58424" alt="Screenshot 2" width="200">
 <img src="https://github.com/Allan-Kipkemei/CampusVibe/assets/73424910/60b666b2-97ef-4426-b6aa-7c23d5754d44" alt="Screenshot 3" width="200">
